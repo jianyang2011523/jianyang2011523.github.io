@@ -1,4 +1,3 @@
-
 .container{
     width: 1350px;
     height: 4250px;
@@ -166,10 +165,10 @@
     background: url("../img/part_bar_bg.gif") repeat;
 }
 .part2{
-    top:226px;
+    top:164px;
 }
 .part3{
-    top:373px;
+    top:311px;
 }
 .part span,.part1 span,.part2 span,.part3 span{
     display: inline-block;
